@@ -36,7 +36,7 @@ gulp.task('watch', ['default'], () => {
     port: 8888
   })
 
-  gulp.watch(['js/**/js'], ['js'])
+  gulp.watch(['js/**/*.js'], ['js'])
   gulp.watch(['css/**/*.css'], ['css'])
   gulp.watch([
     'pages/**/*',
