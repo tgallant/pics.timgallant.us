@@ -1,7 +1,10 @@
-/* index.js */
+'use strict'
 
-(function () {
-  'use strict'
+import Layzr from 'layzr.js'
 
-  console.log('hi')
-})()
+const instance = Layzr()
+
+instance
+  .update()
+  .check()
+  .handlers(true)
