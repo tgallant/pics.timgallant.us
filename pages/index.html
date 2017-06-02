@@ -2,6 +2,10 @@
 layout: default
 ---
 
-<section class="index">
-  <h1>Hi</h1>
+<section class="index images">
+  {{#each pics}}
+    {{#with-image this}}
+      {{> image}}
+    {{/with-image}}
+  {{/each}}
 </section>
