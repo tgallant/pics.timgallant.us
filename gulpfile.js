@@ -1,6 +1,9 @@
+const babel = require('rollup-plugin-babel')
 const connect = require('gulp-connect')
 const gulp = require('gulp')
 const panini = require('panini')
+const resolve = require('rollup-plugin-node-resolve')
+const rollup = require('rollup').rollup
 
 gulp.task('html', () => {
   const paniniOptions = {
@@ -17,8 +20,24 @@ gulp.task('html', () => {
 })
 
 gulp.task('js', () => {
-  return gulp.src('js/**/*.js', { base: '.' })
-    .pipe(gulp.dest('build'))
+  return rollup({
+    entry: 'js/index.js',
+    plugins: [
+      resolve({
+        browser: true,
+        jsnext: true,
+        module: true
+      }),
+      babel({
+        exclude: 'node_modules'
+      })
+    ]
+  }).then(bundle => {
+    return bundle.write({
+      format: 'iife',
+      dest: 'build/js/main.js'
+    })
+  })
 })
 
 gulp.task('css', () => {
