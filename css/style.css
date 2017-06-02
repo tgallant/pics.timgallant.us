@@ -21,11 +21,17 @@ html{
 .image {
   bottom: 0;
   left: 0;
+  opacity: 0;
   padding: 4px;
   position: absolute;
   top: 0;
+  transition: opacity .5s ease-in-out;
   right: 0;
   width: 100%;
+}
+
+.image[src] {
+  opacity: 1;
 }
 
 .image-background {
