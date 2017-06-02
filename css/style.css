@@ -21,9 +21,11 @@ html{
 .image {
   bottom: 0;
   left: 0;
+  padding: 4px;
   position: absolute;
   top: 0;
   right: 0;
+  width: 100%;
 }
 
 .image-background {
