@@ -2,10 +2,22 @@
 layout: default
 ---
 
-<section class="index images">
-  {{#each pics}}
-    {{#with-image this}}
-      {{> image}}
-    {{/with-image}}
-  {{/each}}
-</section>
+<div class="container index">
+  <section class="filter">
+    <h1 class="title">Picture Gallery</h1>
+    <p>Filter by tag:</p>
+    <div class="tags">
+      <span class="tag" data-tag="d.c">D.C</span>
+      <span class="tag" data-tag="paris">Paris</span>
+      <span class="tag" data-tag="tremont">Tremont</span>
+      <span class="tag" data-tag="san%20francisco">San Francisco</span>
+    </div>
+  </section>
+  <section class="images">
+    {{#each pics}}
+      {{#with-image this}}
+        {{> image}}
+      {{/with-image}}
+    {{/each}}
+  </section>
+</div>
