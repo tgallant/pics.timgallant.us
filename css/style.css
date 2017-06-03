@@ -5,16 +5,60 @@ html{
   box-sizing:inherit;
 }
 
+body {
+  background: #FAFAFA;
+  color: #212121;
+  font-family: monospace;
+  font-size: 16px;
+}
+
+.title {
+  font-size: 32px;
+  padding: 16px 0;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 1024px;
+  padding: 0 6px;
+}
+
+.filter {
+  text-align: center;
+}
+
+.tags{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 13px 0;
+}
+
+.tag {
+  border: 2px solid #212121;
+  border-radius: 5px;
+  margin: 3px;
+  padding: 3px;
+}
+
+.tag:hover {
+  cursor: pointer;
+}
+
+.tag.selected {
+  border-color: #F44336;
+  color: #F44336;
+}
+
 .images {
   display: flex;
   flex-wrap: wrap;
-  margin: 0 auto;
-  max-width: 1024px;
+  width: 100%;
 }
 
 .image-container {
-  flex: 0 0 50%;
-  padding: 4px;
+  flex: 0 0 100%;
+  margin: 3px 0;
   position: relative;
 }
 
@@ -22,7 +66,6 @@ html{
   bottom: 0;
   left: 0;
   opacity: 0;
-  padding: 4px;
   position: absolute;
   top: 0;
   transition: opacity .5s ease-in-out;
@@ -37,4 +80,21 @@ html{
 .image-background {
   background: linear-gradient(135deg, #455A64, #B0BEC5);
   padding-top: 66.666666%;
+}
+
+@media screen and (min-width: 768px) {
+  .container {
+    padding: 0 3px;
+  }
+
+  .image-container {
+    flex: 0 0 calc(50% - 6px);
+    margin: 3px;
+  }
+}
+
+@media screen and (min-width: 1100px) {
+  .container {
+    padding: 0;
+  }
 }
