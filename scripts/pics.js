@@ -8,6 +8,22 @@ const path = require('path')
 
 require('dotenv-safe').load()
 
+function transform (resources) {
+  return resources.reduce((acc, cur) => {
+    const tag = cur.tags[0]
+
+    if (acc[tag]) {
+      acc[tag].push(cur)
+
+      return acc
+    }
+
+    acc[tag] = [cur]
+
+    return acc
+  }, {})
+}
+
 function getImages (acc, next) {
   function handleImages (results) {
     const resources = acc.concat(results.resources)
@@ -18,9 +34,10 @@ function getImages (acc, next) {
       return
     }
 
-    const json = JSON.stringify(resources, null, '  ')
+    const json = transform(resources)
+    const jsonStr = JSON.stringify(json, null, '  ')
     const p = path.join(__dirname, '../data/pics.json')
-    fs.writeFile(p, json, 'utf8', () => {
+    fs.writeFile(p, jsonStr, 'utf8', () => {
       console.log('pics.json created!')
     })
   }
