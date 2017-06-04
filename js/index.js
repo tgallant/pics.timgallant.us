@@ -28,6 +28,7 @@ function checkHash () {
 
     if (tag) {
       tag.classList.toggle('selected')
+      filterSection(tag.dataset.tag)
     }
   }
 }
@@ -45,6 +46,17 @@ function toggleTag (e) {
 
   if (target.classList.contains('selected')) {
     target.classList.toggle('selected')
+    showSections()
+    const hidden = document.querySelectorAll('[data-normal-hidden]')
+
+    Array.from(hidden).forEach(image => {
+      image.dataset['normal'] = image.dataset['normalHidden']
+      delete image.dataset['normalHidden']
+    })
+
+    instance.update()
+    instance.check()
+
     history.pushState('', document.title, location.pathname)
     return
   }
@@ -57,8 +69,44 @@ function toggleTag (e) {
 
   target.classList.toggle('selected')
 
-  const tag = target.innerText
-  const hash = encodeURIComponent(tag.toLowerCase())
+  const tag = target.dataset.tag
 
-  history.pushState(null, null, `#${hash}`)
+  history.pushState(null, null, `#${tag}`)
+  filterSection(tag)
+}
+
+function showSections () {
+  const sections = document.querySelectorAll('[data-section]')
+
+  Array.from(sections).forEach(section => {
+    section.classList.remove('hidden')
+  })
+}
+
+function filterSection (id) {
+  const sections = document.querySelectorAll('[data-section]')
+  const selected = document.querySelector(`[data-section="${id}"]`)
+
+  Array.from(sections).forEach(section => {
+    section.classList.add('hidden')
+  })
+
+  selected.classList.remove('hidden')
+
+  const newSelected = document.querySelectorAll(`[data-section="${id}"] [data-normal-hidden]`)
+
+  Array.from(newSelected).forEach(image => {
+    image.dataset['normal'] = image.dataset['normalHidden']
+    delete image.dataset['normalHidden']
+  })
+
+  const hidden = document.querySelectorAll('.hidden [data-normal]')
+
+  Array.from(hidden).forEach(image => {
+    image.dataset['normalHidden'] = image.dataset['normal']
+    delete image.dataset['normal']
+  })
+
+  instance.update()
+  instance.check()
 }
