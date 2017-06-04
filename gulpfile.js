@@ -7,8 +7,6 @@ const panini = require('panini')
 const resolve = require('rollup-plugin-node-resolve')
 const rollup = require('rollup').rollup
 
-console.log(__dirname)
-
 gulp.task('html', () => {
   const paniniOptions = {
     root: 'pages/',
