@@ -12,6 +12,10 @@ body {
   font-size: 16px;
 }
 
+.hidden {
+  display: none;
+}
+
 .title {
   font-size: 32px;
   padding: 16px 0;
@@ -48,6 +52,15 @@ body {
 .tag.selected {
   border-color: #F44336;
   color: #F44336;
+}
+
+.section-container {
+  text-align: center;
+}
+
+.section-title {
+  font-size: 23px;
+  padding: 23px 0;
 }
 
 .images {
