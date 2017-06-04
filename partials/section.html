@@ -1,0 +1,10 @@
+<div class="section-container" data-section="{{this.sectionId}}">
+  <h2 class="section-title">{{@key}}</h2>
+  <div class="images">
+    {{#each this}}
+      {{#with-image this}}
+        {{> image}}
+      {{/with-image}}
+    {{/each}}
+  </div>
+</div>
