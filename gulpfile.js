@@ -1,3 +1,5 @@
+'use strict'
+
 const babel = require('rollup-plugin-babel')
 const connect = require('gulp-connect')
 const gulp = require('gulp')
@@ -7,21 +9,21 @@ const rollup = require('rollup').rollup
 
 gulp.task('html', () => {
   const paniniOptions = {
-    root: './pages/',
-    layouts: './layouts/',
-    partials: './partials/',
-    helpers: './helpers/',
-    data: './data/'
+    root: 'pages/',
+    layouts: 'layouts/',
+    partials: 'partials/',
+    helpers: 'helpers/',
+    data: 'data/'
   }
 
-  gulp.src('./pages/**/*.html')
+  gulp.src('pages/**/*.html')
     .pipe(panini(paniniOptions))
-    .pipe(gulp.dest('./build'))
+    .pipe(gulp.dest('build'))
 })
 
 gulp.task('js', () => {
   return rollup({
-    entry: './js/index.js',
+    entry: 'js/index.js',
     plugins: [
       resolve({
         browser: true,
@@ -29,19 +31,19 @@ gulp.task('js', () => {
         module: true
       }),
       babel({
-        exclude: './node_modules'
+        exclude: 'node_modules'
       })
     ]
   }).then(bundle => {
     return bundle.write({
       format: 'iife',
-      dest: './build/js/main.js'
+      dest: 'build/js/main.js'
     })
   })
 })
 
 gulp.task('css', () => {
-  return gulp.src('./css/**/*.css', { base: '.' })
+  return gulp.src('css/**/*.css', { base: '.' })
     .pipe(gulp.dest('build'))
 })
 
