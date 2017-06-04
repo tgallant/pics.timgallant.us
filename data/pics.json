@@ -1,0 +1,520 @@
+{
+  "D.C": [
+    {
+      "public_id": "trip2017/trip_alexandria_pier_1_csk6k7",
+      "format": "jpg",
+      "version": 1496134334,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-05-30T08:52:14Z",
+      "bytes": 6755687,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496134334/trip2017/trip_alexandria_pier_1_csk6k7.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496134334/trip2017/trip_alexandria_pier_1_csk6k7.jpg",
+      "tags": [
+        "D.C"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_alexandria_pier_2_k7wzad",
+      "format": "jpg",
+      "version": 1496134307,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-05-30T08:51:47Z",
+      "bytes": 4684271,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496134307/trip2017/trip_alexandria_pier_2_k7wzad.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496134307/trip2017/trip_alexandria_pier_2_k7wzad.jpg",
+      "tags": [
+        "D.C"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_dc_capitol_1_oxgkph",
+      "format": "jpg",
+      "version": 1496134387,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-05-30T08:53:07Z",
+      "bytes": 6100242,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496134387/trip2017/trip_dc_capitol_1_oxgkph.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496134387/trip2017/trip_dc_capitol_1_oxgkph.jpg",
+      "tags": [
+        "D.C"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_dc_capitol_2_ic7vt5",
+      "format": "jpg",
+      "version": 1496134381,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-05-30T08:53:01Z",
+      "bytes": 6695763,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496134381/trip2017/trip_dc_capitol_2_ic7vt5.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496134381/trip2017/trip_dc_capitol_2_ic7vt5.jpg",
+      "tags": [
+        "D.C"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_dc_capitol_3_asutmc",
+      "format": "jpg",
+      "version": 1496134445,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-05-30T08:54:05Z",
+      "bytes": 5708189,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496134445/trip2017/trip_dc_capitol_3_asutmc.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496134445/trip2017/trip_dc_capitol_3_asutmc.jpg",
+      "tags": [
+        "D.C"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_dc_capitol_4_adx0xq",
+      "format": "jpg",
+      "version": 1496134441,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-05-30T08:54:01Z",
+      "bytes": 5694758,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496134441/trip2017/trip_dc_capitol_4_adx0xq.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496134441/trip2017/trip_dc_capitol_4_adx0xq.jpg",
+      "tags": [
+        "D.C"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_dc_congress_1_pmjtzo",
+      "format": "jpg",
+      "version": 1496134426,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-05-30T08:53:46Z",
+      "bytes": 7722835,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496134426/trip2017/trip_dc_congress_1_pmjtzo.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496134426/trip2017/trip_dc_congress_1_pmjtzo.jpg",
+      "tags": [
+        "D.C"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_dc_congress_2_nvgbp5",
+      "format": "jpg",
+      "version": 1496134434,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-05-30T08:53:54Z",
+      "bytes": 5618777,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496134434/trip2017/trip_dc_congress_2_nvgbp5.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496134434/trip2017/trip_dc_congress_2_nvgbp5.jpg",
+      "tags": [
+        "D.C"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_dc_gardens_1_sy5mow",
+      "format": "jpg",
+      "version": 1496134386,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-05-30T08:53:06Z",
+      "bytes": 4805098,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496134386/trip2017/trip_dc_gardens_1_sy5mow.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496134386/trip2017/trip_dc_gardens_1_sy5mow.jpg",
+      "tags": [
+        "D.C"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_dc_protest_1_yzz0hb",
+      "format": "jpg",
+      "version": 1496134464,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-05-30T08:54:24Z",
+      "bytes": 7156140,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496134464/trip2017/trip_dc_protest_1_yzz0hb.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496134464/trip2017/trip_dc_protest_1_yzz0hb.jpg",
+      "tags": [
+        "D.C"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_dc_protest_2_spxzuq",
+      "format": "jpg",
+      "version": 1496134520,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-05-30T08:55:20Z",
+      "bytes": 6232896,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496134520/trip2017/trip_dc_protest_2_spxzuq.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496134520/trip2017/trip_dc_protest_2_spxzuq.jpg",
+      "tags": [
+        "D.C"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_dc_protest_3_idgobz",
+      "format": "jpg",
+      "version": 1496134470,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-05-30T08:54:30Z",
+      "bytes": 7326825,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496134470/trip2017/trip_dc_protest_3_idgobz.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496134470/trip2017/trip_dc_protest_3_idgobz.jpg",
+      "tags": [
+        "D.C"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_dc_protest_4_z12m5w",
+      "format": "jpg",
+      "version": 1496134531,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-05-30T08:55:31Z",
+      "bytes": 6929246,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496134531/trip2017/trip_dc_protest_4_z12m5w.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496134531/trip2017/trip_dc_protest_4_z12m5w.jpg",
+      "tags": [
+        "D.C"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_dc_protest_5_r7cnme",
+      "format": "jpg",
+      "version": 1496134494,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-05-30T08:54:54Z",
+      "bytes": 5084744,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496134494/trip2017/trip_dc_protest_5_r7cnme.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496134494/trip2017/trip_dc_protest_5_r7cnme.jpg",
+      "tags": [
+        "D.C"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_dc_protest_6_qglvqs",
+      "format": "jpg",
+      "version": 1496134533,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-05-30T08:55:33Z",
+      "bytes": 5078691,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496134533/trip2017/trip_dc_protest_6_qglvqs.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496134533/trip2017/trip_dc_protest_6_qglvqs.jpg",
+      "tags": [
+        "D.C"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_dc_protest_7_ocr8pd",
+      "format": "jpg",
+      "version": 1496134510,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-05-30T08:55:10Z",
+      "bytes": 5001064,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496134510/trip2017/trip_dc_protest_7_ocr8pd.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496134510/trip2017/trip_dc_protest_7_ocr8pd.jpg",
+      "tags": [
+        "D.C"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_dc_protest_8_klrl36",
+      "format": "jpg",
+      "version": 1496134590,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-05-30T08:56:30Z",
+      "bytes": 5335047,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496134590/trip2017/trip_dc_protest_8_klrl36.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496134590/trip2017/trip_dc_protest_8_klrl36.jpg",
+      "tags": [
+        "D.C"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_dc_protest_9_zmkfr1",
+      "format": "jpg",
+      "version": 1496134532,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-05-30T08:55:32Z",
+      "bytes": 5092048,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496134532/trip2017/trip_dc_protest_9_zmkfr1.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496134532/trip2017/trip_dc_protest_9_zmkfr1.jpg",
+      "tags": [
+        "D.C"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_dc_street_1_qt0kad",
+      "format": "jpg",
+      "version": 1496134627,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-05-30T08:57:07Z",
+      "bytes": 8221970,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496134627/trip2017/trip_dc_street_1_qt0kad.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496134627/trip2017/trip_dc_street_1_qt0kad.jpg",
+      "tags": [
+        "D.C"
+      ]
+    }
+  ],
+  "Paris": [
+    {
+      "public_id": "trip2017/trip_arrive_1_a73dlv",
+      "format": "jpg",
+      "version": 1496134315,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-05-30T08:51:55Z",
+      "bytes": 5316173,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496134315/trip2017/trip_arrive_1_a73dlv.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496134315/trip2017/trip_arrive_1_a73dlv.jpg",
+      "tags": [
+        "Paris"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_arrive_2_rgoxhb",
+      "format": "jpg",
+      "version": 1496134316,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-05-30T08:51:56Z",
+      "bytes": 5064576,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496134316/trip2017/trip_arrive_2_rgoxhb.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496134316/trip2017/trip_arrive_2_rgoxhb.jpg",
+      "tags": [
+        "Paris"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_arrive_3_sgkwl6",
+      "format": "jpg",
+      "version": 1496134290,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-05-30T08:51:30Z",
+      "bytes": 5229524,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496134290/trip2017/trip_arrive_3_sgkwl6.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496134290/trip2017/trip_arrive_3_sgkwl6.jpg",
+      "tags": [
+        "Paris"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_arrive_4_d8uos5",
+      "format": "jpg",
+      "version": 1496134318,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-05-30T08:51:58Z",
+      "bytes": 5083919,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496134318/trip2017/trip_arrive_4_d8uos5.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496134318/trip2017/trip_arrive_4_d8uos5.jpg",
+      "tags": [
+        "Paris"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_arrive_5_jpprad",
+      "format": "jpg",
+      "version": 1496134336,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-05-30T08:52:16Z",
+      "bytes": 4180730,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496134336/trip2017/trip_arrive_5_jpprad.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496134336/trip2017/trip_arrive_5_jpprad.jpg",
+      "tags": [
+        "Paris"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_arrive_7_vjoo54",
+      "format": "jpg",
+      "version": 1496134376,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-05-30T08:52:56Z",
+      "bytes": 6595268,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496134376/trip2017/trip_arrive_7_vjoo54.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496134376/trip2017/trip_arrive_7_vjoo54.jpg",
+      "tags": [
+        "Paris"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_arrive_8_dp9c2i",
+      "format": "jpg",
+      "version": 1496134374,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-05-30T08:52:54Z",
+      "bytes": 4916725,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496134374/trip2017/trip_arrive_8_dp9c2i.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496134374/trip2017/trip_arrive_8_dp9c2i.jpg",
+      "tags": [
+        "Paris"
+      ]
+    }
+  ],
+  "Trémont": [
+    {
+      "public_id": "trip2017/trip_reve_1_y73qz1",
+      "format": "jpg",
+      "version": 1496134582,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-05-30T08:56:22Z",
+      "bytes": 6333597,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496134582/trip2017/trip_reve_1_y73qz1.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496134582/trip2017/trip_reve_1_y73qz1.jpg",
+      "tags": [
+        "Trémont"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_reve_2_eqrc49",
+      "format": "jpg",
+      "version": 1496134596,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-05-30T08:56:36Z",
+      "bytes": 4908407,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496134596/trip2017/trip_reve_2_eqrc49.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496134596/trip2017/trip_reve_2_eqrc49.jpg",
+      "tags": [
+        "Trémont"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_reve_3_vmqsv4",
+      "format": "jpg",
+      "version": 1496134580,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-05-30T08:56:20Z",
+      "bytes": 3856764,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496134580/trip2017/trip_reve_3_vmqsv4.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496134580/trip2017/trip_reve_3_vmqsv4.jpg",
+      "tags": [
+        "Trémont"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_reve_4_t7ov9g",
+      "format": "jpg",
+      "version": 1496134601,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-05-30T08:56:41Z",
+      "bytes": 5862167,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496134601/trip2017/trip_reve_4_t7ov9g.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496134601/trip2017/trip_reve_4_t7ov9g.jpg",
+      "tags": [
+        "Trémont"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_reve_5_q3q33f",
+      "format": "jpg",
+      "version": 1496134658,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-05-30T08:57:38Z",
+      "bytes": 6609447,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496134658/trip2017/trip_reve_5_q3q33f.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496134658/trip2017/trip_reve_5_q3q33f.jpg",
+      "tags": [
+        "Trémont"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_reve_6_crdnxr",
+      "format": "jpg",
+      "version": 1496134635,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-05-30T08:57:15Z",
+      "bytes": 4108130,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496134635/trip2017/trip_reve_6_crdnxr.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496134635/trip2017/trip_reve_6_crdnxr.jpg",
+      "tags": [
+        "Trémont"
+      ]
+    }
+  ]
+}
