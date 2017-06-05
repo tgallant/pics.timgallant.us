@@ -417,6 +417,118 @@
       "tags": [
         "Paris"
       ]
+    },
+    {
+      "public_id": "trip2017/trip_paris_1_xwicwc",
+      "format": "jpg",
+      "version": 1496651611,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-06-05T08:33:31Z",
+      "bytes": 6255923,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496651611/trip2017/trip_paris_1_xwicwc.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496651611/trip2017/trip_paris_1_xwicwc.jpg",
+      "tags": [
+        "Paris"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_paris_2_ghupn0",
+      "format": "jpg",
+      "version": 1496651602,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-06-05T08:33:22Z",
+      "bytes": 6779764,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496651602/trip2017/trip_paris_2_ghupn0.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496651602/trip2017/trip_paris_2_ghupn0.jpg",
+      "tags": [
+        "Paris"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_paris_3_ttnowb",
+      "format": "jpg",
+      "version": 1496651599,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-06-05T08:33:19Z",
+      "bytes": 7338806,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496651599/trip2017/trip_paris_3_ttnowb.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496651599/trip2017/trip_paris_3_ttnowb.jpg",
+      "tags": [
+        "Paris"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_paris_4_qaham9",
+      "format": "jpg",
+      "version": 1496651603,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-06-05T08:33:23Z",
+      "bytes": 8380797,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496651603/trip2017/trip_paris_4_qaham9.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496651603/trip2017/trip_paris_4_qaham9.jpg",
+      "tags": [
+        "Paris"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_paris_5_l6c0qv",
+      "format": "jpg",
+      "version": 1496651585,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-06-05T08:33:05Z",
+      "bytes": 3904415,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496651585/trip2017/trip_paris_5_l6c0qv.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496651585/trip2017/trip_paris_5_l6c0qv.jpg",
+      "tags": [
+        "Paris"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_paris_6_yasrr5",
+      "format": "jpg",
+      "version": 1496651618,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-06-05T08:33:38Z",
+      "bytes": 7654087,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496651618/trip2017/trip_paris_6_yasrr5.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496651618/trip2017/trip_paris_6_yasrr5.jpg",
+      "tags": [
+        "Paris"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_paris_7_ost2wl",
+      "format": "jpg",
+      "version": 1496651627,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-06-05T08:33:47Z",
+      "bytes": 7361097,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496651627/trip2017/trip_paris_7_ost2wl.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496651627/trip2017/trip_paris_7_ost2wl.jpg",
+      "tags": [
+        "Paris"
+      ]
     }
   ],
   "Trémont": [
@@ -437,6 +549,166 @@
       ]
     },
     {
+      "public_id": "trip2017/trip_reve_10_f5nqmk",
+      "format": "jpg",
+      "version": 1496651629,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-06-05T08:33:49Z",
+      "bytes": 3843912,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496651629/trip2017/trip_reve_10_f5nqmk.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496651629/trip2017/trip_reve_10_f5nqmk.jpg",
+      "tags": [
+        "Trémont"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_reve_11_wmyde0",
+      "format": "jpg",
+      "version": 1496651658,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-06-05T08:34:18Z",
+      "bytes": 7376296,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496651658/trip2017/trip_reve_11_wmyde0.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496651658/trip2017/trip_reve_11_wmyde0.jpg",
+      "tags": [
+        "Trémont"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_reve_12_s31rw0",
+      "format": "jpg",
+      "version": 1496651681,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-06-05T08:34:41Z",
+      "bytes": 9065977,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496651681/trip2017/trip_reve_12_s31rw0.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496651681/trip2017/trip_reve_12_s31rw0.jpg",
+      "tags": [
+        "Trémont"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_reve_13_lqsbug",
+      "format": "jpg",
+      "version": 1496651658,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-06-05T08:34:18Z",
+      "bytes": 4835069,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496651658/trip2017/trip_reve_13_lqsbug.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496651658/trip2017/trip_reve_13_lqsbug.jpg",
+      "tags": [
+        "Trémont"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_reve_14_wk2fiy",
+      "format": "jpg",
+      "version": 1496651665,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-06-05T08:34:25Z",
+      "bytes": 5308282,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496651665/trip2017/trip_reve_14_wk2fiy.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496651665/trip2017/trip_reve_14_wk2fiy.jpg",
+      "tags": [
+        "Trémont"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_reve_15_nnpgvq",
+      "format": "jpg",
+      "version": 1496651671,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-06-05T08:34:31Z",
+      "bytes": 5333912,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496651671/trip2017/trip_reve_15_nnpgvq.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496651671/trip2017/trip_reve_15_nnpgvq.jpg",
+      "tags": [
+        "Trémont"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_reve_16_cfci6k",
+      "format": "jpg",
+      "version": 1496651676,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-06-05T08:34:36Z",
+      "bytes": 6653916,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496651676/trip2017/trip_reve_16_cfci6k.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496651676/trip2017/trip_reve_16_cfci6k.jpg",
+      "tags": [
+        "Trémont"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_reve_17_dxqyfs",
+      "format": "jpg",
+      "version": 1496651686,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-06-05T08:34:46Z",
+      "bytes": 6170304,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496651686/trip2017/trip_reve_17_dxqyfs.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496651686/trip2017/trip_reve_17_dxqyfs.jpg",
+      "tags": [
+        "Trémont"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_reve_18_y2dwoi",
+      "format": "jpg",
+      "version": 1496651683,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-06-05T08:34:43Z",
+      "bytes": 4726399,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496651683/trip2017/trip_reve_18_y2dwoi.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496651683/trip2017/trip_reve_18_y2dwoi.jpg",
+      "tags": [
+        "Trémont"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_reve_19_gkxgru",
+      "format": "jpg",
+      "version": 1496651690,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-06-05T08:34:50Z",
+      "bytes": 4033487,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496651690/trip2017/trip_reve_19_gkxgru.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496651690/trip2017/trip_reve_19_gkxgru.jpg",
+      "tags": [
+        "Trémont"
+      ]
+    },
+    {
       "public_id": "trip2017/trip_reve_2_eqrc49",
       "format": "jpg",
       "version": 1496134596,
@@ -448,6 +720,22 @@
       "height": 3744,
       "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496134596/trip2017/trip_reve_2_eqrc49.jpg",
       "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496134596/trip2017/trip_reve_2_eqrc49.jpg",
+      "tags": [
+        "Trémont"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_reve_20_hgnacv",
+      "format": "jpg",
+      "version": 1496651692,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-06-05T08:34:52Z",
+      "bytes": 4564267,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496651692/trip2017/trip_reve_20_hgnacv.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496651692/trip2017/trip_reve_20_hgnacv.jpg",
       "tags": [
         "Trémont"
       ]
@@ -514,6 +802,280 @@
       "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496134635/trip2017/trip_reve_6_crdnxr.jpg",
       "tags": [
         "Trémont"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_reve_7_etsmwm",
+      "format": "jpg",
+      "version": 1496651633,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-06-05T08:33:53Z",
+      "bytes": 5052141,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496651633/trip2017/trip_reve_7_etsmwm.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496651633/trip2017/trip_reve_7_etsmwm.jpg",
+      "tags": [
+        "Trémont"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_reve_8_jcovml",
+      "format": "jpg",
+      "version": 1496651642,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-06-05T08:34:02Z",
+      "bytes": 6846235,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496651642/trip2017/trip_reve_8_jcovml.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496651642/trip2017/trip_reve_8_jcovml.jpg",
+      "tags": [
+        "Trémont"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_reve_9_prha5x",
+      "format": "jpg",
+      "version": 1496651635,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-06-05T08:33:55Z",
+      "bytes": 4727134,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496651635/trip2017/trip_reve_9_prha5x.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496651635/trip2017/trip_reve_9_prha5x.jpg",
+      "tags": [
+        "Trémont"
+      ]
+    }
+  ],
+  "San Francisco": [
+    {
+      "public_id": "trip2017/trip_sf_1_uwssyz",
+      "format": "jpg",
+      "version": 1496651697,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-06-05T08:34:57Z",
+      "bytes": 4348425,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496651697/trip2017/trip_sf_1_uwssyz.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496651697/trip2017/trip_sf_1_uwssyz.jpg",
+      "tags": [
+        "San Francisco"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_sf_10_bjepmk",
+      "format": "jpg",
+      "version": 1496651766,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-06-05T08:36:06Z",
+      "bytes": 8437353,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496651766/trip2017/trip_sf_10_bjepmk.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496651766/trip2017/trip_sf_10_bjepmk.jpg",
+      "tags": [
+        "San Francisco"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_sf_11_wlhoze",
+      "format": "jpg",
+      "version": 1496651739,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-06-05T08:35:39Z",
+      "bytes": 3953419,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496651739/trip2017/trip_sf_11_wlhoze.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496651739/trip2017/trip_sf_11_wlhoze.jpg",
+      "tags": [
+        "San Francisco"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_sf_12_nnseb3",
+      "format": "jpg",
+      "version": 1496651744,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-06-05T08:35:44Z",
+      "bytes": 5802501,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496651744/trip2017/trip_sf_12_nnseb3.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496651744/trip2017/trip_sf_12_nnseb3.jpg",
+      "tags": [
+        "San Francisco"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_sf_13_lnn1ns",
+      "format": "jpg",
+      "version": 1496651762,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-06-05T08:36:02Z",
+      "bytes": 6524197,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496651762/trip2017/trip_sf_13_lnn1ns.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496651762/trip2017/trip_sf_13_lnn1ns.jpg",
+      "tags": [
+        "San Francisco"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_sf_14_yqajlp",
+      "format": "jpg",
+      "version": 1496651756,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-06-05T08:35:56Z",
+      "bytes": 5799578,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496651756/trip2017/trip_sf_14_yqajlp.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496651756/trip2017/trip_sf_14_yqajlp.jpg",
+      "tags": [
+        "San Francisco"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_sf_2_kbeosr",
+      "format": "jpg",
+      "version": 1496651696,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-06-05T08:34:56Z",
+      "bytes": 4704563,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496651696/trip2017/trip_sf_2_kbeosr.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496651696/trip2017/trip_sf_2_kbeosr.jpg",
+      "tags": [
+        "San Francisco"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_sf_3_sbcxvc",
+      "format": "jpg",
+      "version": 1496651711,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-06-05T08:35:11Z",
+      "bytes": 5368956,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496651711/trip2017/trip_sf_3_sbcxvc.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496651711/trip2017/trip_sf_3_sbcxvc.jpg",
+      "tags": [
+        "San Francisco"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_sf_4_ykxq46",
+      "format": "jpg",
+      "version": 1496651726,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-06-05T08:35:26Z",
+      "bytes": 7863802,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496651726/trip2017/trip_sf_4_ykxq46.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496651726/trip2017/trip_sf_4_ykxq46.jpg",
+      "tags": [
+        "San Francisco"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_sf_5_aianqd",
+      "format": "jpg",
+      "version": 1496651715,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-06-05T08:35:15Z",
+      "bytes": 4128449,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496651715/trip2017/trip_sf_5_aianqd.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496651715/trip2017/trip_sf_5_aianqd.jpg",
+      "tags": [
+        "San Francisco"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_sf_6_bynurs",
+      "format": "jpg",
+      "version": 1496651725,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-06-05T08:35:25Z",
+      "bytes": 5704986,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496651725/trip2017/trip_sf_6_bynurs.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496651725/trip2017/trip_sf_6_bynurs.jpg",
+      "tags": [
+        "San Francisco"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_sf_7_ngshrw",
+      "format": "jpg",
+      "version": 1496651721,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-06-05T08:35:21Z",
+      "bytes": 5515635,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496651721/trip2017/trip_sf_7_ngshrw.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496651721/trip2017/trip_sf_7_ngshrw.jpg",
+      "tags": [
+        "San Francisco"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_sf_8_wrvplz",
+      "format": "jpg",
+      "version": 1496651719,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-06-05T08:35:19Z",
+      "bytes": 4560566,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496651719/trip2017/trip_sf_8_wrvplz.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496651719/trip2017/trip_sf_8_wrvplz.jpg",
+      "tags": [
+        "San Francisco"
+      ]
+    },
+    {
+      "public_id": "trip2017/trip_sf_9_cdawlr",
+      "format": "jpg",
+      "version": 1496651755,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2017-06-05T08:35:55Z",
+      "bytes": 8352604,
+      "width": 5616,
+      "height": 3744,
+      "url": "http://res.cloudinary.com/ddazqlq1g/image/upload/v1496651755/trip2017/trip_sf_9_cdawlr.jpg",
+      "secure_url": "https://res.cloudinary.com/ddazqlq1g/image/upload/v1496651755/trip2017/trip_sf_9_cdawlr.jpg",
+      "tags": [
+        "San Francisco"
       ]
     }
   ]
