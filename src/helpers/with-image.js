@@ -24,6 +24,7 @@ function getImageUrl (id, width) {
 module.exports = (context, options) => {
   const id = `${context.public_id}.${context.format}`
 
+  context.fullsizeUrl = getImageUrl(id, 'auto')
   context.defaultUrl = getImageUrl(id, 512)
   context.mediumeUrl = getImageUrl(id, 768)
   context.smallUrl = getImageUrl(id, 425)
