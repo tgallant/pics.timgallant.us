@@ -26,8 +26,9 @@ module.exports = (context, options) => {
 
   context.fullsizeUrl = getImageUrl(id, 'auto')
   context.defaultUrl = getImageUrl(id, 512)
-  context.mediumeUrl = getImageUrl(id, 768)
-  context.smallUrl = getImageUrl(id, 425)
+  context.smallUrl = getImageUrl(id, 320)
+
+  context.srcset = `${context.smallUrl} 425w, ${context.defaultUrl} 768w`
 
   return options.fn(context)
 }

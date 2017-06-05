@@ -86,7 +86,7 @@ body {
   width: 100%;
 }
 
-.image[src] {
+.image[srcset] {
   opacity: 1;
 }
 

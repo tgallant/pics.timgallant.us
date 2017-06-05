@@ -51,7 +51,9 @@ function toggleTag (e) {
 
     Array.from(hidden).forEach(image => {
       image.dataset['normal'] = image.dataset['normalHidden']
+      image.dataset['srcset'] = image.dataset['srcsetHidden']
       delete image.dataset['normalHidden']
+      delete image.dataset['srcsetHidden']
     })
 
     instance.update()
@@ -97,14 +99,18 @@ function filterSection (id) {
 
   Array.from(newSelected).forEach(image => {
     image.dataset['normal'] = image.dataset['normalHidden']
+    image.dataset['srcset'] = image.dataset['srcsetHidden']
     delete image.dataset['normalHidden']
+    delete image.dataset['srcsetHidden']
   })
 
   const hidden = document.querySelectorAll('.hidden [data-normal]')
 
   Array.from(hidden).forEach(image => {
     image.dataset['normalHidden'] = image.dataset['normal']
+    image.dataset['srcsetHidden'] = image.dataset['srcset']
     delete image.dataset['normal']
+    delete image.dataset['srcset']
   })
 
   instance.update()
