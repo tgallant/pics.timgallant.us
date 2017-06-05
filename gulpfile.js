@@ -43,7 +43,7 @@ gulp.task('js', () => {
 })
 
 gulp.task('css', () => {
-  return gulp.src('assets/css/**/*.css', { base: '.' })
+  return gulp.src('assets/css/**/*.css', { base: './assets' })
     .pipe(gulp.dest('build'))
 })
 
