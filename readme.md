@@ -2,6 +2,10 @@
 
 # pics.timgallant.us
 
+generate `pics.json` data
+
+`npm run pics`
+
 start server
 
 `npm start`
