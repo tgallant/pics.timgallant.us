@@ -9,21 +9,21 @@ const rollup = require('rollup').rollup
 
 gulp.task('html', () => {
   const paniniOptions = {
-    root: 'pages/',
-    layouts: 'layouts/',
-    partials: 'partials/',
-    helpers: 'helpers/',
-    data: 'data/'
+    root: 'src/pages/',
+    layouts: 'src/layouts/',
+    partials: 'src/partials/',
+    helpers: 'src/helpers/',
+    data: 'src/data/'
   }
 
-  gulp.src('pages/**/*.html')
+  gulp.src('src/pages/**/*.html')
     .pipe(panini(paniniOptions))
     .pipe(gulp.dest('build'))
 })
 
 gulp.task('js', () => {
   return rollup({
-    entry: 'js/index.js',
+    entry: 'assets/js/index.js',
     plugins: [
       resolve({
         browser: true,
@@ -43,7 +43,7 @@ gulp.task('js', () => {
 })
 
 gulp.task('css', () => {
-  return gulp.src('css/**/*.css', { base: '.' })
+  return gulp.src('assets/css/**/*.css', { base: '.' })
     .pipe(gulp.dest('build'))
 })
 
@@ -57,13 +57,13 @@ gulp.task('watch', ['default'], () => {
     port: 8888
   })
 
-  gulp.watch(['js/**/*.js'], ['js'])
-  gulp.watch(['css/**/*.css'], ['css'])
+  gulp.watch(['assets/js/**/*.js'], ['js'])
+  gulp.watch(['assets/css/**/*.css'], ['css'])
   gulp.watch([
-    'pages/**/*',
-    'partials/**/*',
-    'helpers/**/*',
-    'data/**/*',
-    'layouts/**/*'
+    'src/pages/**/*',
+    'src/partials/**/*',
+    'src/helpers/**/*',
+    'src/data/**/*',
+    'src/layouts/**/*'
   ], ['html'])
 })

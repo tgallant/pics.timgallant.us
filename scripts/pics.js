@@ -36,7 +36,7 @@ function getImages (acc, next) {
 
     const json = transform(resources)
     const jsonStr = JSON.stringify(json, null, '  ')
-    const p = path.join(__dirname, '../data/pics.json')
+    const p = path.join(__dirname, '../src/data/pics.json')
     fs.writeFile(p, jsonStr, 'utf8', () => {
       console.log('pics.json created!')
     })
