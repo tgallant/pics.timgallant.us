@@ -1,11 +1,16 @@
 'use strict'
 
+const autoprefixer = require('autoprefixer')
 const babel = require('rollup-plugin-babel')
+const concat = require('gulp-concat')
 const connect = require('gulp-connect')
+const cssnano = require('cssnano')
 const gulp = require('gulp')
 const panini = require('panini')
+const postcss = require('gulp-postcss')
 const resolve = require('rollup-plugin-node-resolve')
 const rollup = require('rollup').rollup
+const sourcemaps = require('gulp-sourcemaps')
 const uglify = require('rollup-plugin-uglify')
 
 gulp.task('html', () => {
@@ -46,8 +51,17 @@ gulp.task('js', () => {
 })
 
 gulp.task('css', () => {
-  return gulp.src('assets/css/**/*.css', { base: './assets' })
-    .pipe(gulp.dest('build'))
+  const plugins = [
+    autoprefixer(),
+    cssnano()
+  ]
+
+  return gulp.src(['assets/css/reset.css', 'assets/css/**/*.css'])
+    .pipe(sourcemaps.init())
+    .pipe(concat('main.css'))
+    .pipe(postcss(plugins))
+    .pipe(sourcemaps.write('.'))
+    .pipe(gulp.dest('build/css'))
 })
 
 gulp.task('assets', ['js', 'css'])
