@@ -6,6 +6,7 @@ const gulp = require('gulp')
 const panini = require('panini')
 const resolve = require('rollup-plugin-node-resolve')
 const rollup = require('rollup').rollup
+const uglify = require('rollup-plugin-uglify')
 
 gulp.task('html', () => {
   const paniniOptions = {
@@ -32,7 +33,8 @@ gulp.task('js', () => {
       }),
       babel({
         exclude: 'node_modules'
-      })
+      }),
+      uglify()
     ]
   }).then(bundle => {
     return bundle.write({
